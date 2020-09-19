@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Science Fundamentals
 - 👯 I’m looking to collaborate on Machine Learning and Computer Vision Projects
 - 🤔 I’m looking for help with finding an internship to enhance my learning
-- 💬 Ask me about anything
+- 💬 Ask me about OpenCV, Keras, Python
 - 📫 How to reach me: aashayk7@gmail.com
 - 😄 Pronouns: Ich
